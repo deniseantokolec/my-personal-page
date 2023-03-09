@@ -1,0 +1,104 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+.Nav{
+    margin: auto;
+    background-color:burlywood;
+    height: 80px;
+    width: auto;
+}
+
+.Nav-list{
+    margin: auto;
+    display: inline-flex;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    
+}
+
+.about{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    
+    
+}
+
+.about a{
+    text-decoration: none;
+    color:black;
+}
+
+.about :hover{
+    color:black;
+}
+
+.about :focus{
+    color:black;
+}
+
+.work{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.work a{
+    text-decoration: none;
+    color:black;
+}
+
+.work :hover{
+    color:black;
+}
+
+.work :focus{
+    color:black;
+}
+
+.SandL{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+.SandL a{
+    text-decoration: none;
+    color:black;
+}
+
+.SandL :hover{
+    color:black;
+}
+
+.SandL :focus{
+    color:black;
+}
+
+.courses{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+.courses a{
+    text-decoration: none;
+    color:black;
+}
+
+.courses :hover{
+    color:black;
+}
+
+.courses :focus{
+    color:black;
+}
