@@ -7,10 +7,6 @@ function About () {
         <div>
           <h1 className="title">About Me</h1>
           <h2 className="name">Denise Antokolec</h2>
-          <h4 className="introduction">
-            Maybe you are asking to yourself, Who is <span>Denise Antokolec</span>?<br />
-            In this section I would tell you a little bit about me.
-          </h4><br />
           <img src={foto} alt="foto" className="foto"/>
           <h3 className="subtitle">My history</h3>
           <p className="text">
