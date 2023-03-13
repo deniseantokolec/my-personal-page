@@ -5,7 +5,7 @@
 
 .Nav{
     margin: auto;
-    background-color:burlywood;
+    background-color:rgba(13, 162, 248, 0.872);
     height: 80px;
     width: auto;
 }
@@ -37,11 +37,11 @@
 }
 
 .about :hover{
-    color:black;
+    color:white;
 }
 
 .about :focus{
-    color:black;
+    color:white;
 }
 
 .work{
@@ -56,11 +56,11 @@
 }
 
 .work :hover{
-    color:black;
+    color:white;
 }
 
 .work :focus{
-    color:black;
+    color:white;
 }
 
 .SandL{
@@ -76,11 +76,11 @@
 }
 
 .SandL :hover{
-    color:black;
+    color:white;
 }
 
 .SandL :focus{
-    color:black;
+    color:white;
 }
 
 .courses{
@@ -96,9 +96,31 @@
 }
 
 .courses :hover{
-    color:black;
+    color:white;
 }
 
 .courses :focus{
+    color:white;
+}
+
+.welcome{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+
+}
+
+.welcome a{
+    text-decoration: none;
     color:black;
 }
+
+.welcome :hover{
+    color:white;
+}
+
+.welcome :focus{
+    color:black;
+}
+

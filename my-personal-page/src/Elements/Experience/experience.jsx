@@ -1,4 +1,3 @@
-
 import React from "react";
 import "./experience.css"
 
@@ -11,7 +10,7 @@ function Experience () {
             <p className="text2"> <span className="title2">Start date:</span> 10/2022</p>
             <p className="text3"> <span className="title3">Start end:</span> present</p>
             <p className="text4"> <span className="title4">Experience:</span> 
-             <ul className="experience-list1">
+            <ul className="experience-list1">
                 <li>Financial analysis</li>
                 <li>Billing</li>
                 <li>Invoice report</li>
@@ -19,7 +18,7 @@ function Experience () {
                 <li>Business analysis</li>
                 <li>Netsuite</li>
                 <li>Hubspot</li>
-             </ul>
+            </ul>
             </p>
         </div>
     )
