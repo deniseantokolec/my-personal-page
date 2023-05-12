@@ -3,10 +3,21 @@
     margin: 0;
 }
 
+.all2{
+    background-image: linear-gradient(to right top, #bb8588, #cc9d92, #dab7a0, #e5d1b4, #efebce);
+    height: 500px;
+    width: 100%;
+    
+}
+
+.header{
+    margin-top: 0px;
+}
+
 .title{
-    margin-top: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
+    animation: about 2s linear 0.5 linear alternate;
 
 }
 

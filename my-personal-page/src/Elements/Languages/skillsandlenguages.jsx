@@ -1,8 +1,9 @@
 import React from "react";
+import './sandl.css';
 
 function SkillsandLenguages () {
     return(
-        <div>
+        <div className="all5">
             
         </div>
     )

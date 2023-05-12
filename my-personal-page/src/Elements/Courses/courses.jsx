@@ -1,8 +1,9 @@
 import React from "react";
+import './courses.css'
 
 function Courses () {
     return(
-        <div>
+        <div className="all3">
             
         </div>
     )
