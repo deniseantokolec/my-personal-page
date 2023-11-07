@@ -13,8 +13,8 @@ function About () {
       <div className="cuerpo">
         <h3 className="subtitle">My history</h3>
         <p className="text">
-          I born in Buenos Aires, Argentina on September 23rd in 1994 <br />
-          My dad's name is Ariel and my mum's name is Patricia. And they gave me a youger sister called Natalie.
+          I was born in Buenos Aires, Argentina on September 23rd in 1994 <br />
+          My dad's name is Ariel and my mum's name is Patricia. And they gave me a younger sister called Natalie.
               
         </p>
       </div>

@@ -9,3 +9,79 @@
     width: 100%;
     
 }
+
+.header-courses{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+}
+
+.title2{
+    margin-left: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.courses-cuerpo{
+    margin-left: 30px;
+    text-align: left;
+    justify-content: left;
+}
+.title5{
+    margin-left: 20px;
+    text-align: left;
+    justify-content: left;
+    font-weight: bold;
+
+}
+
+.text5{
+    margin-left: 10px;
+    text-align: left;
+    justify-content: left;
+}
+
+.title6{
+    margin-left: 10px;
+    text-align: left;
+    justify-content: left;
+    font-weight: bold;
+}
+
+.text6{
+    margin-left: 10px;
+    text-align: left;
+    justify-content: left;
+}
+
+.title7{
+    margin-left: 10px;
+    text-align: left;
+    justify-content: left;
+    font-weight: bold;
+}
+
+.text7{
+    margin-left: 10px;
+    text-align: left;
+    justify-content: left;
+}
+
+.title8{
+    margin-left: 10px;
+    text-align: left;
+    justify-content: left;
+    font-weight: bold;
+}
+
+.text8{
+    margin-left: 10px;
+    text-align: left;
+    justify-content: left;
+}
+
+.content-list{
+    margin-left: 30px;
+    text-align: left;
+    justify-content: left;
+}
