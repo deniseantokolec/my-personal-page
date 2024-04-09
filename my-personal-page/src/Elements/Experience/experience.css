@@ -16,67 +16,78 @@
 }
 
 .experience1{
-    margin-left: 20px;
-    text-align: left;
-    justify-content: left;
+    margin-left: 400px;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+    text-align: justify;
+    justify-content: justify;
 
 }
 
 .title1{
-    margin-left: 20px;
-    text-align: left;
-    justify-content: left;
+    margin-left: 400px;
+    text-align: justify;
+    margin-bottom: 0.5%;
+    justify-content: justify;
     font-weight: bold;
 
 }
 
 .text1{
-    margin-left: 10px;
+    margin-left: 30px;
     text-align: left;
     justify-content: left;
+    margin-bottom: 0.5%;
 }
 
 .title2{
-    margin-left: 10px;
+    margin-left: 400px;
     text-align: left;
     justify-content: left;
+    margin-bottom: 0.5%;
     font-weight: bold;
 }
 
 .text2{
-    margin-left: 10px;
+    margin-left: 30px;
     text-align: left;
     justify-content: left;
+    margin-bottom: 0.5%;
 }
 
 .title3{
-    margin-left: 10px;
+    margin-left: 400px;
     text-align: left;
     justify-content: left;
+    margin-bottom: 0.5%;
     font-weight: bold;
 }
 
 .text3{
-    margin-left: 10px;
+    margin-left: 30px;
     text-align: left;
     justify-content: left;
+    margin-bottom: 0.5%;
 }
 
 .title4{
-    margin-left: 10px;
+    margin-left: 400px;
     text-align: left;
     justify-content: left;
+    margin-bottom: 0.5%;
     font-weight: bold;
 }
 
 .text4{
-    margin-left: 10px;
-    text-align: left;
-    justify-content: left;
-}
-
-.experience-list1{
     margin-left: 30px;
     text-align: left;
     justify-content: left;
+    margin-bottom: 0.5%;
+}
+
+.experience-list1{
+    margin-left: 450px;
+    text-align: left;
+    justify-content: left;
+    margin-bottom: 0.5%;
 }
